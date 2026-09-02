@@ -2,26 +2,28 @@
 
 ## My Name
 
-Write your name.
+Akshay.T
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+- Arithemetics
+- Functions
+- Data Structures
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+I like the language simplicity and readability.
 
 ## My Career Goal
 
-Write the role you want to achieve.
+Software Engineer
 
 ## What I Understood Today
 
 Complete these sentences:
 
-Programming means:
+Programming means: Writing instructions for a computer to follow
 
-Python is:
+Python is: A high-level, interpreted programming language
 
-In this track, I will learn:
+In this track, I will learn: Python programming concepts and best practices
